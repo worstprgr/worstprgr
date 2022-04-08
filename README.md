@@ -1,16 +1,16 @@
-### Hi there 👋
+× Data enthusiast. I have a big love for collecting and plotting data. 
+× Realist. Why train a CV model for recognizing undynamic patterns?
+× Lazy. If it's repeating, automate it.
 
-<!--
-**worstprgr/worstprgr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My (public) projects:
+- http://stats.seishin.io
+-- more coming soon(tm) --
 
-Here are some ideas to get you started:
+My (unpublic) project:
+- https://www.seishin.io
+// Gather, clean and triage data 
+// find correlations and possible causalities 
+// ~~automation, automation, automation~~ x = (('automation, ') * 3).rstrip(', ')
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
