@@ -7,10 +7,11 @@ _I'm a ..._<br/>
 
 
 _My tools:_ <br/>
-&nbsp;&nbsp;&nbsp;››Python, PHP, HTML, CSS <br/>
-&nbsp;&nbsp;&nbsp;››Docker <br/>
-&nbsp;&nbsp;&nbsp;››Linux, Windows, Raspberry Pi <br/>
-&nbsp;&nbsp;&nbsp;››Notepad++, Jupyter, PyCharm <br/><br/>
+&nbsp;&nbsp;&nbsp;›› Python, PHP, HTML, CSS <br/>
+&nbsp;&nbsp;&nbsp;›› Docker <br/>
+&nbsp;&nbsp;&nbsp;›› Linux, Windows <br/>
+&nbsp;&nbsp;&nbsp;›› Raspberry Pi <br/>
+&nbsp;&nbsp;&nbsp;›› Notepad++, Jupyter, PyCharm <br/><br/>
 
 
 _My (public) projects:_<br/>
