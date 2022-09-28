@@ -11,7 +11,7 @@ _My tools:_ <br/>
 &nbsp;&nbsp;&nbsp;›› Docker <br/>
 &nbsp;&nbsp;&nbsp;›› Linux, Windows <br/>
 &nbsp;&nbsp;&nbsp;›› Raspberry Pi <br/>
-&nbsp;&nbsp;&nbsp;›› Notepad++, Jupyter, PyCharm <br/><br/>
+&nbsp;&nbsp;&nbsp;›› Notepad++, Jupyter, PyCharm, GoLand, CLion <br/><br/>
 
 
 _My (public) projects:_<br/>
