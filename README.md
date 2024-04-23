@@ -13,7 +13,6 @@ My current journey:
 - 2009: I did some stuff with HTML/CSS and very little PHP
 - 2019: I discovered Python and ML/LLMs/DS and had no clue about OOP, so I wrote everything in C style
 - 2021: I discovered the beauty and pain of OOP
-- 2022: Peaked into C and Rust, but I got overwhelmed by malloc/free, stack, heap, livetimes, traits, borrow checker, ...
 - 2023: I discovered Neovim, and I hated it. Tried some stuff in Rust, but I threw it away
 - 2024: I learned to love Neovim. After ~5 years of Python, I decided to write new projects in Rust
 
