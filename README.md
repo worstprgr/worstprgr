@@ -2,7 +2,11 @@
 I'm automating stuff and creating tools to save some unnecessary keystrokes.  
 The repos here are mostly recreational stuff or disclosed projects.  
 
-## About me
+---
+<details>
+  <summary>About me</summary>
+
+## 
 I'm a self.taught (recreational) developer, who's eager to learn more about problem-solving and how computers even work.  
 
 My current journey:  
@@ -44,3 +48,5 @@ My current journey:
 - Rust
 - C
 - Assembly
+
+</details>
