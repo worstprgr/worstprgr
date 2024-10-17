@@ -1,1 +1,1 @@
-Linux Sysadmin doing some recreational programming
+Linux Sysadmin does some recreational programming
